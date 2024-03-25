@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaileyMendonca
-- 👀 I’m interested in ... Software development, Cybersecurity and Blockchain Research
-- 🌱 I’m currently learning ... B/ Computer Science
+- 👀 I’m interested in ... Software development, Cloud Solutions and all things tech!
+- 🌱 I’m currently learning ... .Net
 - 📫 How to reach me ... mendoncabailey01@gmail.com
 
 <!---
